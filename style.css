@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./fonts/Montserrat-Light.ttf');
+}
+
+:root {
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  font-family: 'Montserrat', monospace, Helvetica, Arial, sans-serif;
+}
